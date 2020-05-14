@@ -27,6 +27,7 @@
                 android:layout_height="wrap_content"
                 android:text="India"
                 android:gravity="center"
+                android:textStyle="italic"
                 android:id="@+id/name_widget"
                 android:layout_below="@+id/imageView_widget"
                 android:layout_marginTop="10dp"
